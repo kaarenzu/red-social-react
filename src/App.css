@@ -1,1 +1,19 @@
+*{
+  margin: 0em;
+  padding: 0em;
+}
 
+body {
+   /* background: linear-gradient(194.07deg, #CDDDF4 3.26%, #CDBAFA 100%); */
+  background:url("https://img.freepik.com/vector-gratis/fondo-blanco-gris-forma-tecnologia-engranaje_136469-29.jpg?size=626&ext=jpg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+}
